@@ -6,6 +6,5 @@ Avid video game enthusiast, especially Minecraft.
 
 Discord bots and selfbots enthusiast.
 
-Always ready to learn and take on new challenges.
 
 [![luzura's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luzura)](https://github.com/anuraghazra/github-readme-stats)
