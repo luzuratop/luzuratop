@@ -6,6 +6,6 @@ Avid video game enthusiast, especially Minecraft.
 
 Discord bots and selfbots enthusiast.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luzura&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luzura&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
